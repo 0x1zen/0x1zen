@@ -8,7 +8,7 @@
 $ whoami
 raj-dubal — full-stack developer · Mumbai
 ```
-**[rajdubal.in]([https://rajdubal.in/])** — Portfolio Website
+**[rajdubal.in](https://rajdubal.in/)** — Portfolio Website
 
 ### `cat stack.txt`
 
