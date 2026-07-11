@@ -22,7 +22,7 @@ Cloud       →  AWS (EC2, RDS, S3) · Oracle Cloud (ARM64 VMs) · Docker · Ngi
 ### `ls projects/`
 
 - **[easyurl.in](https://easyurl.in)** — URL shortener
-- **[internflow](http://129.154.240.121:5100/)** — internship workflow platform
+- **[internflow](http://129.154.240.121:5100/)** — AI-powered Internship Management
 
 ### Coding Handles
 
@@ -33,6 +33,3 @@ Cloud       →  AWS (EC2, RDS, S3) · Oracle Cloud (ARM64 VMs) · Docker · Ngi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-raj--dubal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-dubal/)
 [![Gmail](https://img.shields.io/badge/Gmail-rajdubalwork-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajdubalwork@gmail.com)
 
-```console
-$ git push origin master
-```
