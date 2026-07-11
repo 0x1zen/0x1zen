@@ -1,6 +1,6 @@
 <!-- ─────────────────────────────  RAJ DUBAL · README  ───────────────────────────── -->
 
-![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&color=3FB950&lines=Building+products+that+solve+real+problems;Building+AI-powered+experiences;Turning+coffee+into+scalable+software&v=2)
+![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&color=3FB950&lines=Building+products+that+solve+real+problems+.;Building+AI-powered+experiences+.;Turning+coffee+into+scalable+software+.&v=3)
 
 ### `whoami`
 
